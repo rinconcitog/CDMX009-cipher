@@ -1,0 +1,67 @@
+*{
+    font-family:"helvetica", "arial";
+    padding: 0px;
+    margin: 0px;
+}
+
+html, body { height:100%}
+
+body {
+  background-image: url("Group 165.png");
+  background-size: 600px;
+  background-position: bottom right;
+  background-repeat:no-repeat;
+  background-color: #FFFF;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+#contenido {
+  width: 550px;
+  margin-left: 50px;
+  margin-top: 120px;
+  float: left;
+
+}
+
+#texto_intro {
+  width: 550px;
+  text-align: justify;
+}
+
+h1 {
+font-size: 30px;
+text-align: left;
+padding-top: 50px;
+padding-bottom: 60px;
+color:#6E6E6E
+}
+
+p{font-size: 20px;
+text-align: left;
+color:#848484
+}
+
+.botones {
+  background-color: #fecf47;
+  color: white;
+  padding: 25px 25px;
+  margin:10px 10px 10px 10px;
+  text-align: center;
+  font-size: 25px;
+  text-decoration: none;
+  border-radius: 15px;
+  width: 200px;
+}
+
+.campo {
+  font-size: 20px;
+  width: 300px;
+  height: 60px;
+  padding: 0px 20px 0px 20px;
+  border: 2px solid #848484;
+border-radius: 6px;
+margin-bottom: 10px;
